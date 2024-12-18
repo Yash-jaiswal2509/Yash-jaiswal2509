@@ -7,9 +7,9 @@ Hi there! 👋 I'm Yash Jaiswal
 <br>💬 Ask me about full-stack development, competitive programming, and JavaScript/TypeScript frameworks.
 <br>⚡ Fun fact: I enjoy solving challenging algorithms as much as crafting pixel-perfect UI designs!
 <br>
-<br>💼 **Portfolio**: [Explore my work](https://yash-jaiswal-portfolio-0825.vercel.app/)  
-<br>📄 **Resume**: [View here](https://drive.google.com/file/d/1VTd-1GhHXgAwRafousyq5S-007HH_vmU/view?usp=sharing)  
-<br>🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yash-jaiswal-aaa8112ab/) 
+💼 **Portfolio**: [Explore my work](https://yash-jaiswal-portfolio-0825.vercel.app/)  
+📄 **Resume**: [View here](https://drive.google.com/file/d/1VTd-1GhHXgAwRafousyq5S-007HH_vmU/view?usp=sharing)  
+🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yash-jaiswal-aaa8112ab/) 
 
 
 ## 🌐 Socials:
